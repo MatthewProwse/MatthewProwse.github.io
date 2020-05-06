@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Programming
-icon: fa-pencil-alt
+icon: fa-code-branch
 order: 4
 ---
