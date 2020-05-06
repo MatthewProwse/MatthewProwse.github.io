@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Profile
-icon: fa-pencil-alt
+icon: fa-user
 order: 2
 ---
